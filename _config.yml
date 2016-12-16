@@ -5,7 +5,7 @@ locale: en_US
 description: Rosanna and Alex's Veggie Burger Reviews.
 logo: site-logo.png
 search: true
-url: http://subdraft.github.io/veggieburgerblog
+url: https://subdraft.github.io/veggieburgerblog
 
 # Jekyll configuration
 
